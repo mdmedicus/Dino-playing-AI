@@ -6,4 +6,4 @@ Dino playing Machine Learning Algorithm on JAVA
 Dino playing application with Backpropagation algorithm on JAVA.
 
 
-![EXAMPLE](DinoAI\examle_dino.png)
+![EXAMPLE](DinoAI/example_dino.png)
